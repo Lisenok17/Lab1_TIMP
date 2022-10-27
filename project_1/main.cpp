@@ -23,6 +23,6 @@ int main(int argc, char **argv)
 {
     locale loc("ru_RU.UTF-8");
     locale::global(loc);
-    check(L"КОТБОРИС", L"МЯУ");
+    check(L"СТАРОСТА", L"КИТ");
     return 0;
 }
